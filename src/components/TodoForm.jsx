@@ -49,7 +49,7 @@ const styles = {
         fontSize: '16px',
         padding: '0 16px',
         border: 'none',
-        borderRadius: '4px', // Memperbarui sudut menjadi membulat
+        borderRadius: '4px',
         marginRight: '10px',
         backgroundColor: '#f0f0f0',
         color: 'black',
