@@ -9,7 +9,6 @@ const TodoItem = ({ todo }) => {
     return {
       textDecoration: todo.completed ? 'line-through' : 'none',
       color: '#000',
-      textAlign: 'left', // Teks menjadi rata kiri
     }
   }
 
